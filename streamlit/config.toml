@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#7986CB"  # Soft Indigo
+backgroundColor="#1C1B29"
+secondaryBackgroundColor="#2A2643"
+textColor="#E0D7FF"
+font="serif"
